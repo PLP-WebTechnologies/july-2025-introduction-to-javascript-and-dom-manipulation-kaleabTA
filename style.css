@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+.red {
+    color: red;
+}
+
+#listContainer {
+    margin-top: 20px;
+}
